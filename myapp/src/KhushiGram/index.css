@@ -1,0 +1,9 @@
+.KhushiGram{
+display: flex;
+background-color: black;
+color: white;
+
+flex-direction: row;
+}
+
+
